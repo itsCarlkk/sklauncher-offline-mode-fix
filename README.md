@@ -55,10 +55,10 @@ Replace:
 
 `YOUR_UUID` with the UUID found in your SKlauncher account settings.
 
-Keep `type` set to `offline` to put the account in offline mode.
+Important: Keep `type` set to `offline`. Both `id` and `activeAccountId` must match your SKlauncher username.
 
 ## 5. Save and restart SKlauncher
-Save the file using UTF-8 encoding, close Notepad, and launch SKlauncher again.
+Save the file, close Notepad, and launch SKlauncher again.
 
 Your offline profile should now appear!
 
