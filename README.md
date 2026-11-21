@@ -55,6 +55,7 @@ Replace:
 
 `YOUR_UUID` with the UUID found in your SKlauncher account settings.
 
+Keep it set to `offline` to put the account in offline mode
 
 ## 5. Save and restart SKlauncher
 Save the file using UTF-8 encoding, close Notepad, and launch SKlauncher again.
