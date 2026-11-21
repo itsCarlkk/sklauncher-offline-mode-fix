@@ -39,13 +39,13 @@ Open the file with Notepad and paste the following content:
 ```{
   "accounts": [
     {
-      "id": "offline",
+      "id": "YOUR_USERNAME",
       "type": "offline",
       "username": "YOUR_USERNAME",
       "uuid": "YOUR_UUID"
     }
   ],
-  "activeAccountId": "offline"
+  "activeAccountId": "YOUR_USERNAME"
 }
 ```
 
@@ -55,7 +55,6 @@ Replace:
 
 `YOUR_UUID` with the UUID found in your SKlauncher account settings.
 
-The `id` field can be any identifier, as long as it matches the value of `activeAccountId` (but I recommend changing it to the account's username)
 
 ## 5. Save and restart SKlauncher
 Save the file using UTF-8 encoding, close Notepad, and launch SKlauncher again.
